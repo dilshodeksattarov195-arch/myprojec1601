@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepave",
+        "uuid": 8903161,
+        "checksum": "e4zmz0g"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
